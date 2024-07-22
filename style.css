@@ -1,0 +1,8 @@
+.quadrati{
+    width: calc((100% / 10) - 10px);
+    height: 100px;
+    border: 1px black solid;
+    background-color:blueviolet;
+    margin: 5px;
+    display: inline-block;
+}
