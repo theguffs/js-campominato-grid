@@ -6,3 +6,12 @@
     margin: 5px;
     display: inline-block;
 }
+.difficile {
+    width: calc((100% / 10) - 10px);
+}
+.medio {
+    width: calc((100% / 9) - 10px);
+}
+.facile {
+    width: calc((100% / 7) - 10px);
+}
