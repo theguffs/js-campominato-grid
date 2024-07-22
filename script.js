@@ -1,7 +1,9 @@
 document.getElementById('generate-button').addEventListener('click', function() {
     const container = document.getElementById('grid-container');
     const difficulty = document.getElementById('difficoltà').value;
+
 // Pulisce il contenitore prima di aggiungere nuove celle
+
     container.innerHTML = '';
 
     let quadratitot;
